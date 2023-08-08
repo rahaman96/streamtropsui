@@ -1,0 +1,32 @@
+.mySwiper {
+    padding-right: 250px;
+}
+
+.userDetails {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 20px;
+    opacity: 1;
+    font-family: 'Segoe UI';
+    color: #000000;
+
+}
+.testTi{
+    font-family: 'Poppins';
+
+}
+
+@media (max-width:690px) {
+
+    .mySwiper {
+        padding-right: 100px;
+    }
+    
+  }
+  
+  @media (max-width:516px) {
+    .mySwiper {
+        padding-right: 100px;
+    }
+    
+  }

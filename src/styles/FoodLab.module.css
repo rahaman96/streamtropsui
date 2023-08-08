@@ -1,0 +1,26 @@
+.foodLab {
+    /* background: transparent url('img/Path 1385.png') 0% 0% no-repeat padding-box; */
+    /* opacity: 1; */
+   position: relative;
+  
+}
+.childImg{
+    position: absolute;
+    background: transparent url('../../src/public/assets/images/Path 1385.png') 0% 0% no-repeat padding-box;
+
+    width: 840px;
+    /* margin-left: 1734px; */
+    /* top: 668px; */
+        left: 534px;
+        height: 100px;
+        /* width: 840px; */
+    /*  */
+}
+.text{
+    font-family: 'Poppins';
+}
+.Food{
+    font-family: 'Poppins';
+    opacity: 1;
+
+}
